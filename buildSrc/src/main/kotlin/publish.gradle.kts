@@ -93,7 +93,7 @@ afterEvaluate {
                         version = "$version-SNAPSHOT"
                     }
                     description.set("A template for Kotlin Android projects")
-                    url.set("https://github.com/cortinico/kotlin-android-template/")
+                    url.set("https://github.com/mahmudurrahman/testandroidapp/")
 
                     licenses {
                         license {
@@ -103,18 +103,18 @@ afterEvaluate {
                     }
                     developers {
                         developer {
-                            id.set("cortinico")
-                            name.set("Nicola Corti")
+                            id.set("mahmudurrahman")
+                            name.set("mahmudurrahman")
                         }
                     }
                     scm {
-                        connection.set("scm:git:git://github.com/cortinico/kotlin-android-template.git")
-                        developerConnection.set("scm:git:ssh://github.com/cortinico/kotlin-android-template.git")
-                        url.set("https://github.com/cortinico/kotlin-android-template/")
+                        connection.set("scm:git:git://github.com/mahmudurrahman/testandroidapp.git")
+                        developerConnection.set("scm:git:ssh://github.com/mahmudurrahman/testandroidapp.git")
+                        url.set("https://github.com/mahmudurrahman/testandroidapp/")
                     }
                     issueManagement {
                         system.set("GitHub Issues")
-                        url.set("https://github.com/cortinico/kotlin-android-template/issues")
+                        url.set("https://github.com/mahmudurrahman/testandroidapp/issues")
                     }
                 }
             }
